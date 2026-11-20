@@ -1,0 +1,10 @@
+.git
+.gitignore
+.env
+*.db
+*.db-shm
+*.db-wal
+server
+server.exe
+*.log
+tmp/
